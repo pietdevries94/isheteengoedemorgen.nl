@@ -1,0 +1,19 @@
+body {
+  background-color: #731c47;
+  color: #d6a57a;
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+}
+
+.logo {
+  max-width: 100vw;
+}
